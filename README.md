@@ -484,7 +484,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This project showcases modern web development practices, advanced React patterns, and creative UI/UX design implementation.
 
-## �🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 - **GitHub Copilot** - AI-powered development assistance
 - **Tailwind CSS** - Utility-first CSS framework
