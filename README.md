@@ -6,8 +6,6 @@ A cutting-edge React TypeScript application showcasing futuristic website design
 **AI Assistant:** GitHub Copilot  
 **GitHub Repository:** [ratna3/futuristic-design-studio](https://github.com/ratna3)
 
-![Project Banner](https://via.placeholder.com/800x300/0a0a0a/00ffff?text=Futuristic+Design+Studio)
-
 ## 📖 About This Project
 
 This project demonstrates advanced React TypeScript development skills combined with modern web technologies to create an immersive, futuristic web experience. As a full stack software engineer, I've built this application to showcase:
