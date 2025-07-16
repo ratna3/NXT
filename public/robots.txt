@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: /sitemap.xml
+
+# Performance and Core Web Vitals optimization
+# Allow crawling of static assets for better performance metrics
+Allow: /assets/
+Allow: /static/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.svg
+Allow: /*.webp
+
+# Disallow admin or development routes if any
+Disallow: /admin/
+Disallow: /dev/
+Disallow: /.env
+
+# Crawl delay to respect server resources
+Crawl-delay: 1
